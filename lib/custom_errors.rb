@@ -14,8 +14,6 @@ class Person
     end
   end
 
-
-
   class PartnerError < Standard Error
   end
 end
